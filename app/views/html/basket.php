@@ -35,7 +35,7 @@
                       </div>
         </div>
         <div class="nav">
-            <a href="../html/index.html" id ="show-btnn"> الرئيسية</a> 
+            <a href="home/html/index" id ="show-btnn"> الرئيسية</a> 
                      
             <div>
                 <svg
@@ -162,7 +162,7 @@
         <div style="display: flex; width: 80vw">
             <div class="bask" style="margin-right: 2%;margin-left: 2%;">
               <span   class="span">0</span>
-          <a href="../html/basket.html" class="head-cart">
+          <a href="home/html/basket" class="head-cart">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               height="24px"
@@ -202,7 +202,7 @@
           </div>
         </div>
         <div>
-          <a href="index.html" class="logo-im">
+          <a href="home/html/index" class="logo-im">
             <img
               src="../img/2.PNG"
               class="logg"
@@ -217,7 +217,7 @@
   <main>
     <section class="login-section">
         <div class="model-content" id="model-continer">
-          <span class="close"><a href="../html/index.html" style="text-decoration: none;
+          <span class="close"><a href="home/html/index" style="text-decoration: none;
             font-size: 3vw;
            
             position: absolute;
@@ -233,7 +233,7 @@
             </form>
         </div>
         <div class="model-content2" id="model-continer2">
-          <span class="close"><a href="../html/index.html" style="text-decoration: none;
+          <span class="close"><a href="home/html/index" style="text-decoration: none;
             font-size: 3vw;
            
             position: absolute;
@@ -296,7 +296,7 @@
                 <div>
                     <p>بالضغط على انهاء التسوق انت توافق على الشروط والاحكام</p>
                 </div>
-                <button><a href="buy.html">تحديث السلة</a></button>
+                <button><a href="home/html/buy">تحديث السلة</a></button>
                
             </div>
         </div>
